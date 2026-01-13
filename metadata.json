@@ -1,0 +1,8 @@
+
+{
+  "name": "Revisualise",
+  "description": "An AI-powered photo editor that lets you hug your younger self by combining childhood and adult photos into a single heartwarming interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
